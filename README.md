@@ -1,1 +1,1 @@
-The excutable file is in dist/App/App.exe
+The excutable file is in dist/App
