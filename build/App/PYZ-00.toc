@@ -1,0 +1,749 @@
+('D:\\Python\\ChaosGame\\build\\App\\PYZ-00.pyz',
+ [('pkg_resources',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\struct.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\string.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\uuid.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\selectors.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('dummy_threading',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\dummy_threading.py',
+   'PYMODULE'),
+  ('_dummy_thread',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\_dummy_thread.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\signal.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\argparse.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\bz2.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\pdb.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\getopt.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\base64.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\calendar.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\ssl.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\ipaddress.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\tty.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\shlex.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\cmd.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\pprint.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\copy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('pkg_resources.py31compat',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\py31compat.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\imp.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\inspect.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\token.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\ast.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\bisect.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\platform.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\stat.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\__future__.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\os.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\pickle.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\difflib.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\random.py',
+   'PYMODULE'),
+  ('pygame',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\__init__.py',
+   'PYMODULE'),
+  ('pygame.colordict',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\colordict.py',
+   'PYMODULE'),
+  ('pygame.macosx',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\macosx.py',
+   'PYMODULE'),
+  ('pygame.pkgdata',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\pkgdata.py',
+   'PYMODULE'),
+  ('pygame.fastevent',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\fastevent.py',
+   'PYMODULE'),
+  ('pygame.sndarray',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\sndarray.py',
+   'PYMODULE'),
+  ('pygame.surfarray',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\surfarray.py',
+   'PYMODULE'),
+  ('pygame.sysfont',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\sysfont.py',
+   'PYMODULE'),
+  ('pygame.ftfont',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\ftfont.py',
+   'PYMODULE'),
+  ('pygame.threads',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\threads\\__init__.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\queue.py',
+   'PYMODULE'),
+  ('pygame.sprite',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\sprite.py',
+   'PYMODULE'),
+  ('pygame.cursors',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\cursors.py',
+   'PYMODULE'),
+  ('pygame.version',
+   'c:\\users\\mohammad '
+   'alshareef\\appdata\\local\\programs\\python\\python36\\lib\\site-packages\\pygame\\version.py',
+   'PYMODULE')])
